@@ -8,7 +8,7 @@
 
 ![e-comm-backend](./assets/images/e-comm-routes.png)
 
-* <a href='https://www.github/BDunham484/e-comm-backend'>https://www.github/BDunham484/e-comm-backend</a>
+* <a href='https://drive.google.com/file/d/1w89H2gkbcLrHgk61O1enAOrXOc3doCFe/view'>Demonstration Video</a>
 
 ## Table of Contents
 

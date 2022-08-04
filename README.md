@@ -4,7 +4,7 @@
 
 ## Description: 
 
-* The back-end for an e-commerce site built using Express.js, MySQL, and Sequelize
+* The back-end for an e-commerce site built using Node.js, Express.js, MySQL, and Sequelize
 
 ![e-comm-backend](./assets/images/e-comm-routes.png)
 
@@ -45,41 +45,17 @@ Back to [top of page](# )
 
 Back to [top of page](# )
 
-## License
+## Made with
 
-* This application is covered under the <a href='https://opensource.org/licenses/MIT'>MIT License</a>.
+* JavaScript
+* Node.js
+* Express.js
+* MySQL
+* Sequelize
 
-Back to [top of page](# )
-
-
-## Code Contributors
-
-#### Made with ❤️ by:
+### Made with ❤️ by:
 
 * Brad Dunham
-
-
-
-Back to [top of page](# )
-
-## Contributing
-
-Submit an issue
-
-Back to [top of page](# )
-
-## Test
-
-* nah
-
-
-
-Back to [top of page](# )
-
-## Questions?
-
-* If you have any questions you can find me here: <https://www.github.com/BDunham484>
-* You can also reach me here: bdunham484@gmail.com
 
 Back to [top of page](# )
 

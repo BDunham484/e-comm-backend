@@ -36,7 +36,10 @@ Back to [top of page](# )
 
 ## Usage
 
-* From the command line enter:, `npm run seed`, `npm start`,Routes can be checked using Insomnia
+* From the command line enter:
+*  `npm run seed`
+*   `npm start`
+*   Routes can be checked using Insomnia
 
 ![e-comm-backend](./assets/images/e-comm-insomnia.png)
 

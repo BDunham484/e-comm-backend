@@ -14,11 +14,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Code Contributors](#code-contributors)
-- [Contributing](#contributing)
-- [Test](#test)
-- [Questions](#questions)
 
 ## Installation
 

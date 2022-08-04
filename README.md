@@ -26,9 +26,9 @@
 *  `npm i express sequelize mysql2 dotenv`
 *  Create a .env file in root folder
 *  Enter MySQL login credentials in the following format:
-*  `DB_NAME='ecommerce_db'
+*  `DB_NAME='ecommerce_db'`
 *  `DB_USER='<username>'`
-*  `DB_PW='<password>'
+*  `DB_PW='<password>'`
 
 ![e-comm-backend](./assets/images/e-comm-install.png)
 
